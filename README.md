@@ -6,8 +6,11 @@ This repository implements stable weighted sampling and reconstruction for scala
 
 #### Dependencies
 
-* Docker
-* Docker Compose
+* Python 3.10.19
+* numpy 1.26.4
+* scipy 1.12.0
+* matplotlib 3.10.8
+* PyYAML 6.0.2
 
 #### Bash
 
